@@ -1066,7 +1066,6 @@ input {
 
   .footer-top {
     display: flex;
-    gap: 24px;
     justify-content: center;
   }
 
