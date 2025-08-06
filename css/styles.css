@@ -830,10 +830,6 @@ input {
   color: #404bbf;
 }
 
-.menu-nav_item:not(:last-child) {
-  margin-bottom: 24px;
-}
-
 .menu-info_list {
   display: flex;
   gap: 24px;
